@@ -1,0 +1,23 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masavi/learning-typescript.git"
+  },
+  "author": "Maui Saavedra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masavi/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/Masavi/learning-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
